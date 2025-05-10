@@ -1,0 +1,7 @@
+C:\Users\R. Ramos\source\repos\RA23035\bin\Debug\RA23035.exe.config
+C:\Users\R. Ramos\source\repos\RA23035\bin\Debug\RA23035.exe
+C:\Users\R. Ramos\source\repos\RA23035\bin\Debug\RA23035.pdb
+C:\Users\R. Ramos\source\repos\RA23035\obj\Debug\RA23035.csproj.AssemblyReference.cache
+C:\Users\R. Ramos\source\repos\RA23035\obj\Debug\RA23035.csproj.CoreCompileInputs.cache
+C:\Users\R. Ramos\source\repos\RA23035\obj\Debug\RA23035.exe
+C:\Users\R. Ramos\source\repos\RA23035\obj\Debug\RA23035.pdb
